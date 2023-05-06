@@ -17,7 +17,6 @@
 
     <modules>
         <module>bne-core</module>
-        <module>bne-api</module>
         <module>bne-web</module>
     </modules>
 
